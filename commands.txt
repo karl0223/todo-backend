@@ -1,0 +1,3 @@
+
+---- Run mongodb locally ---
+/Users/iamwi/Desktop/mongodb-files/mongodb/bin/mongod.exe --dbpath=/Users/iamwi/Desktop/mongodb-files/mongodb-data
